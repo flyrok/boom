@@ -19,7 +19,7 @@ Install in editable mode
 Or install directly from github  
 `pip install git+https://github.com/flyrok/boom_pa#egg=boom_pa`
 
-Or just puth the executable on your PATH and call directly  
+Or just put the executable on your PATH and call directly  
 `./boom_pa.py`
 
 
